@@ -1,7 +1,7 @@
 
 # ✔Hola. (MUNDO)  👀 💻✔ 
  \
-**Actualmente termine la licenciatura de ciencia de datos para negocios, subo aquí mi contenido aprendido y técnicas que podrían servir para un trabajo o proyecto realizado, soy programador 💻, me gustan las matemáticas  y la estadística,  manejo programas como: Python, Rstudio ,  HTML5,GitHub, Google Data Studio , Tableau, SQLServer , ofimática, visual estudio y paquetería Adobe.** \ 
+**Cientifico de datos, interesado en modelos,inteligencia de negocio y toma de decisiones tanto como sector retail y banco.  manejo programas como: Python, Rstudio ,  HTML5,GitHub, Google Data Studio , Tableau, SQLServer , ofimática, visual estudio y paquetería Adobe.** \ 
 #
 > "Visita mi pagina web"😉 \
 
